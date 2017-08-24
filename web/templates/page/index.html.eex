@@ -1,0 +1,5 @@
+<div id="messages"></div>
+
+<div class="jumbotron">
+  <input id="chat-input" type="text"></input>
+</div>
